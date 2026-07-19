@@ -1,7 +1,7 @@
 # -PReLU-ResNet-CIFAR10
 基于PReLU激活函数构建ResNet变体网络，网络深度覆盖8、14、20、26、32、38、44、50、56共9个层级，在CIFAR-10数据集上进行有监督图像分类训练。
 
-RseNet-Classification-CIFAR10.ipynb为主程序，savenet内为训好的网络；需将它们放入同一个文件夹内。
+RseNet-Classification-CIFAR10.ipynb为主程序，savenet内为训好的网络；需将它们放入同一个文件夹内。  
 .  
 .  
 .  
